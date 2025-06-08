@@ -19,9 +19,6 @@
 
 ---
 
-### 📫 Reach Me
-[LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME) • [Twitter](https://twitter.com/YOUR-USERNAME) • [Email](mailto:youremail@example.com)
-
 ---
 
 > “Simplicity is the ultimate sophistication.” — Leonardo da Vinci
