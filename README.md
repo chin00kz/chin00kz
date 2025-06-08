@@ -1,32 +1,27 @@
-<h1 align="center">Hi, I'm Chinookz 👋</h1>
+# Hey there, I'm Chinookz 👋
 
-<p align="center">
-  A Computer Science student building web & AI solutions.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> •
-  <a href="https://x.com/your-username">X</a> •
-  <a href="https://your-website.com">Website</a>
-</p>
+🎯 Focused on building clean, useful, and impactful digital experiences.  
+🧠 Always learning. Forever curious.  
+💼 Currently working in logistics | Exploring software & startups.  
 
 ---
 
-### 🛠️ Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-</p>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antfu&show_icons=true&theme=minimal" alt="GitHub Stats" />
-</p>
+### 🛠️ Tech & Tools
+`JavaScript` `Node.js` `React` `MongoDB` `JSP` `MySQL`  
+`Git` `Figma` `Postman` `Docker (learning)`
 
 ---
 
-<p align="center">
-  💡 Currently exploring [your interest, e.g., AI or web3].<br/>
-  📫 Reach me at: [your-email@example.com]
-</p>
+### 🌱 Current Projects
+- 📱 Building **TraviGo** – a tourism web platform (MERN Stack)  
+- 🚀 Growing **FlameLens** – a social media & creative agency  
+- 🔧 Learning more about **automation & backend systems**
+
+---
+
+### 📫 Reach Me
+[LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME) • [Twitter](https://twitter.com/YOUR-USERNAME) • [Email](mailto:youremail@example.com)
+
+---
+
+> “Simplicity is the ultimate sophistication.” — Leonardo da Vinci
