@@ -4,7 +4,7 @@
 
 
 <p>Computer Science student building web & AI solutions</p>
-
+<br>
 
 ## About Me
 
