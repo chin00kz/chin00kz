@@ -33,7 +33,3 @@ Building intuitive web applications and exploring AI technologies with a focus o
 ---
 
 > "Simplicity is the ultimate sophistication." — Leonardo da Vinci
-
-
-
-can you make this code links open in   a spearate tab
