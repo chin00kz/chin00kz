@@ -4,16 +4,16 @@
 
 
 <p>Computer Science student passionate about building intuitive web apps and exploring AI solutions with a focus on simplicity and performance.</p>
----
 
-> "simplicity is the ultimate sophistication." — Leonardo da Vinci
 ---
 
 ### 🛠️ Tech & Tools
 `JavaScript` `Node.js` `React` `MongoDB` `JSP` `MySQL`  
 `Git` `Figma` `Postman` `Docker (learning)`
 
+---
 
+> "simplicity is the ultimate sophistication." — Leonardo da Vinci
 
 
 <picture>
