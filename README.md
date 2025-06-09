@@ -3,8 +3,7 @@
  # *Hey, I'm chinookz*
 
 
-<p>Computer Science student building web & AI solutions</p>
-Building intuitive web applications and exploring AI technologies with a focus on simplicity and performance.
+<p>Computer Science student passionate about building intuitive web apps and exploring AI solutions with a focus on simplicity and performance.</p>
 
 ---
 
