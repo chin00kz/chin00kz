@@ -1,6 +1,6 @@
 <div align="left">
 
- # *👋 Hey, I'm chinookz*
+ # *Hey, I'm chinookz*
 
 
 <p>Computer Science student building web & AI solutions</p>
@@ -11,11 +11,11 @@
 
 </div>
 
-## 💼 About Me
+## About Me
 
 Building intuitive web applications and exploring AI technologies with a focus on simplicity and performance.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -23,7 +23,7 @@ Building intuitive web applications and exploring AI technologies with a focus o
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧰 Tools & More
+### Tools & More
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -33,4 +33,4 @@ Building intuitive web applications and exploring AI technologies with a focus o
 
 ---
 
-> "Simplicity is the ultimate sophistication." — Leonardo da Vinci
+> "simplicity is the ultimate sophistication." — Leonardo da Vinci
