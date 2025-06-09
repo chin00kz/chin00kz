@@ -31,7 +31,7 @@ I'm passionate about building intuitive digital experiences and exploring the fr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinookz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chin00kz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ## 📌 Featured Projects
