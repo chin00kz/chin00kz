@@ -2,16 +2,15 @@
   
 # 👋 Hey, I'm chinookz
 
-<p>Computer Science student crafting elegant web & AI solutions</p>
+<p>Computer Science student building web & AI solutions</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinookz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chinookz)
 
 </div>
 
 ## 💼 About Me
 
-I'm passionate about building intuitive digital experiences and exploring the frontiers of AI technology. Currently expanding my knowledge in cloud computing and distributed systems.
+Building intuitive web applications and exploring AI technologies with a focus on simplicity and performance.
 
 ## 🚀 Tech Stack
 
@@ -31,15 +30,10 @@ I'm passionate about building intuitive digital experiences and exploring the fr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antfu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chin00kz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
-## 📌 Featured Projects
-
-- **Project Name** - Brief description of what this project does. [View →](https://github.com/chinookz/project)
-- **Another Project** - Brief description of what this project does. [View →](https://github.com/chinookz/another-project)
-
-## 💭 Favorite Quote
+---
 
 > "Simplicity is the ultimate sophistication." — Leonardo da Vinci
 
