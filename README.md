@@ -1,6 +1,9 @@
 <div align="left">
+   ╭───────────────
+   │ *# 👋 Hey, I'm chinookz*
+   ╰───────────────
   
-# 👋 Hey, I'm chinookz
+
 
 <p>Computer Science student building web & AI solutions</p>
 
