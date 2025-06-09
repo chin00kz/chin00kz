@@ -27,18 +27,7 @@ Building intuitive web applications and exploring AI technologies with a focus o
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chin00kz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
 
 ---
 
 > "Simplicity is the ultimate sophistication." — Leonardo da Vinci
-
----
-
-<div align="center">
-  <sub>Last updated: June 9, 2025</sub>
-</div>
