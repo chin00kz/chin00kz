@@ -4,11 +4,9 @@
 
 
 <p>Computer Science student building web & AI solutions</p>
-<br>
-
-## About Me
-
 Building intuitive web applications and exploring AI technologies with a focus on simplicity and performance.
+
+---
 
 ### 🛠️ Tech & Tools
 `JavaScript` `Node.js` `React` `MongoDB` `JSP` `MySQL`  
