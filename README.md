@@ -9,20 +9,12 @@
 
 ### 🛠️ Languages & Tools
 
-**Languages**
+
 `Java` `Kotlin` `C` `C++` `Python` `PHP` `JavaScript` `TypeScript`
-
-**Frontend**
-`HTML` `CSS` `TailwindCSS` `React` ⚛️ `React Native` 📱
-
-**Backend & Frameworks**
-`Node.js` 🟢 `Express.js` `NestJS` `OpenResty` *(learning)*
-
-**Databases**
-`MongoDB` 🍃 `MySQL` 🐬 `SQLite` `MS SQL Server`
-
-**🔧 Dev & Tools**
-`Git` 🌀 `Linux` 🐧 `Figma` 🎨 `Postman` 📬 `Zapier` ⚙️ `Google Cloud` ☁️
+`HTML` `CSS` `TailwindCSS` `React` `React Native` 
+`Node.js` `Express.js` `NestJS` `OpenResty`
+`MongoDB` `MySQL` `SQLite` `MS SQL Server`
+`Git` `Linux` `Figma` `Postman` `Zapier` `Google Cloud`
 
 ---
 
