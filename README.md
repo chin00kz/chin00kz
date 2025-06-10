@@ -9,16 +9,16 @@
 
 ### 🛠️ Languages & Tools
 
-**👨‍💻 Programming Languages**
+**Languages**
 `Java` `Kotlin` `C` `C++` `Python` `PHP` `JavaScript` `TypeScript`
 
-**🌐 Frontend**
+**Frontend**
 `HTML` `CSS` `TailwindCSS` `React` ⚛️ `React Native` 📱
 
-**🧰 Backend & Frameworks**
+**Backend & Frameworks**
 `Node.js` 🟢 `Express.js` `NestJS` `OpenResty` *(learning)*
 
-**🗄️ Databases**
+**Databases**
 `MongoDB` 🍃 `MySQL` 🐬 `SQLite` `MS SQL Server`
 
 **🔧 Dev & Tools**
