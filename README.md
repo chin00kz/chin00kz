@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 
 `Java` `Kotlin` `C` `C++` `Python` `PHP` `JavaScript` `TypeScript`
