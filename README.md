@@ -11,7 +11,7 @@
 `HTML` `CSS` `TailwindCSS` `React` `React Native` 
 `Node.js` `Express.js` `NestJS` `OpenResty`
 `MongoDB` `MySQL` `SQLite` `MS SQL Server`
-`Git` `Linux` `Figma` `Postman` `Zapier` `Google Cloud`
+`Git` `Linux` `Figma` `Zapier` `Google Cloud`
 
 ---
 
