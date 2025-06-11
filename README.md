@@ -2,14 +2,11 @@
 
  # *Hey, I'm chinookz*
 
-
 <p>Computer Science student passionate about building intuitive web apps and exploring AI solutions with a focus on simplicity and performance.</p>
 
 ---
 
 ### Languages & Tools
-
-
 `Java` `Kotlin` `C` `C++` `Python` `PHP` `JavaScript` `TypeScript`
 `HTML` `CSS` `TailwindCSS` `React` `React Native` 
 `Node.js` `Express.js` `NestJS` `OpenResty`
