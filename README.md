@@ -4,7 +4,7 @@
 
 <p>Computer Science student passionate about building intuitive web apps and exploring AI solutions with a focus on simplicity and performance.</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/chinookz](https://www.linkedin.com/in/chinookz/))     [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chin00kz) 
+[![chin00kz](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chin00kz) 
 
 ---
 
