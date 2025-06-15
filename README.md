@@ -1,7 +1,7 @@
 <div align="left">
 
  # *Hey, I'm chinookz*
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinookz.main@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinookz.main@gmail.com) chinookz.main@gmail.com
 
 <p>Computer Science student passionate about building intuitive web apps and exploring AI solutions with a focus on simplicity and performance.</p>
 
