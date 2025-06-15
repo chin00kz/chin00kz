@@ -4,8 +4,6 @@
 
 <p>Computer Science student passionate about building intuitive web apps and exploring AI solutions with a focus on simplicity and performance.</p>
 
-[![chin00kz](https://img.shields.io/badge/X-black.svg?logo=chin00kz&logoColor=white)](https://x.com/chin00kz) 
-
 ---
 
 ### Languages & Tools
