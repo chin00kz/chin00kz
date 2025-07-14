@@ -2,7 +2,7 @@
 
  # *Hey, I'm chinookz*
 
-<p>Computer Science student passionate about building intuitive web apps and exploring AI solutions with a focus on simplicity and performance.</p>
+<p>Computer Science student passionate about building intuitive web apps and exploring AI solutions with a focus on simplicity and performance</p>
 
 ---
 
