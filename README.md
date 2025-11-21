@@ -9,7 +9,7 @@
 ### Languages & Tools
 `Java` `C` `C++` `Python` `PHP` `JavaScript` `TypeScript`
 `HTML` `CSS` `TailwindCSS` `React` `React Native` 
-`Node.js` `Express.js` `NestJS`
+`Node.js` `Express.js`
 `Git` `Linux` `Figma` `Zapier`
 
 ---
