@@ -7,9 +7,9 @@
 ---
 
 ### Languages & Tools
-`Java` `Kotlin` `C` `C++` `Python` `PHP` `JavaScript` `TypeScript`
+`Java` `C` `C++` `Python` `PHP` `JavaScript` `TypeScript`
 `HTML` `CSS` `TailwindCSS` `React` `React Native` 
-`Node.js` `Express.js` `NestJS` `OpenResty`
+`Node.js` `Express.js` `NestJS`
 `Git` `Linux` `Figma` `Zapier`
 
 ---
