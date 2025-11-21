@@ -7,9 +7,8 @@
 ---
 
 ### Languages & Tools
-`Java` `C` `C++` `Python` `PHP` `JavaScript` `TypeScript`
+`C` `C++` `Python` `Java` `PHP` `JavaScript` `TypeScript`
 `HTML` `CSS` `TailwindCSS` `React` `React Native` 
-`Node.js` `Express.js`
 `Git` `Linux` `Figma` `Zapier`
 
 ---
