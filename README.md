@@ -9,7 +9,7 @@
 ### Languages & Tools
 `C` `C++` `Python` `PHP` `JavaScript` `TypeScript`
 `HTML` `CSS` `TailwindCSS` `React` `React Native` 
-`Linux` `Git` `Zapier` `Figma`
+`Linux` `Git` `Zapier` `n8n` `Figma`
 
 ---
 
