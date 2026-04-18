@@ -7,9 +7,11 @@
 ---
 
 ### Languages & Tools
-`C++` `Python` `JavaScript` `TypeScript`
-`HTML` `CSS` `TailwindCSS` `React` `React Native` 
-`Linux` `Git` `Zapier` `n8n` `Figma`
+`C++` `Python` `JavaScript` `TypeScript`  
+`HTML` `CSS` `TailwindCSS` `React` `React Native` `Vite`  
+`Node.js` `Express` `Supabase` `PostgreSQL`  
+`React Query` `Linux` `Git`  
+`Zapier` `n8n` `Figma`
 
 ---
 
