@@ -14,7 +14,7 @@
 ---
 
 
-> "simplicity is the ultimate sophistication." — Leonardo da Vinci
+> "simplicity is the ultimate sophistication." - Leonardo da Vinci
 
 
 
