@@ -2,7 +2,8 @@
 
 # *Hey, I'm chinookz*
 
-<p>Builds and breaks systems for fun. passionate about infrastructure, networking, and security - focused on reliability, privacy, and simplicity. up</p>
+<p>builds and breaks systems for fun.
+  passionate about infrastructure, networking, and security - focused on reliability, privacy, and simplicity.</p>
 
 ---
 
