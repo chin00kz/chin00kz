@@ -1,6 +1,6 @@
 <div align="left">
 
-# *Hey, I'm chinookz*
+# *Hey, I'm chinookz!*
 
 <p>builds and breaks systems for fun.
   passionate about infrastructure, networking, and security - focused on reliability, privacy, and simplicity.</p>
